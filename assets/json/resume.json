@@ -5,7 +5,7 @@
     "image": "",
     "email": "henkemt@gmail.com",
     "url": "https://martin-henke.github.io/",
-    "summary": "A coastal scientist with a passion for understanding and mitigating the impacts of climate change on coastal communities. Experienced in numerical modeling, data analysis, and fieldwork."
+    "summary": "A coastal scientist/engineer with a passion for understanding coastal processes and mitigating associated hazards and impacts on coastal communities. Experienced in numerical modeling, data analysis, and fieldwork."
   },
   "work": [
     {
@@ -14,7 +14,7 @@
       "url": "https://example.com",
       "startDate": "2024-04",
       "endDate": "Present",
-      "summary": "Conducting research on coastal dynamics and energy in high-latitude coastal environments using numerical models."
+      "summary": "Conducting research on coastal dynamics, waves, marine energy in high-latitude and Arctic environments using numerical models."
     }
   ],
   "volunteer": [
