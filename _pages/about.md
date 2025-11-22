@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D., M.S., EIT
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: True # crops the image to make it circular
   more_info: >
-    <p>Coastal Engineer & Researcher</p>
+    <p>Coastal Engineer/Scientist</p>
     <p>Anchorage, Alaska</p>
 
 selected_papers: False # includes a list of papers marked as "selected={true}"
@@ -27,4 +28,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Lorem ipsum
+Dr. Henke is a coastal engineer with expertise in modeling ocean surface waves and hydrodynamics as they relate to coastal processes, flood hazards, and marine energy. His previous research at the GMU [Flood Hazards Research Lab](https://fhrl.vse.gmu.edu/) spans from studying wave-ice interaction along the Alaskan Arctic coast to analyzing marsh migration within the estuaries of the mid-Atlantic. Presently at the Pacific Northwest National Lab's [Ocean Dynamics and Modeling group](https://www.pnnl.gov/projects/ocean-dynamics-modeling), his work is concentrated on numerical modeling of tides and waves in high-latitude and Arctic environments to advance understanding of wave-current-ice interaction and assess marine energy potentials in Alaska. 
