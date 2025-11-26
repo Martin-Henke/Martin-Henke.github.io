@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Martin Henke",
-    "label": "Coastal Engineer",
+    "label": "Coastal Scientist/Engineer",
     "image": "",
     "email": "henkemt@gmail.com",
     "url": "https://martin-henke.github.io/",
-    "summary": "A coastal scientist/engineer with a passion for understanding coastal processes and mitigating associated hazards and impacts on coastal communities. Experienced in numerical modeling, data analysis, and fieldwork."
+    "summary": "A coastal scientist/engineer with a passion for understanding coastal processes, mitigating associated hazards, and development of marine energy. Experienced in numerical modeling, data analysis, and fieldwork."
   },
   "work": [
     {
@@ -34,7 +34,6 @@
       "url": "https://www.gmu.edu/",
       "area": "Civil, Environmental, and Infrastructure Engineering",
       "studyType": "PhD",
-      "startDate": "2021-01",
       "endDate": "2024-05"
     },
     {
@@ -43,15 +42,22 @@
       "url": "https://www.uaa.alaska.edu/",
       "area": "Mechanical Engineering",
       "studyType": "MS",
-      "startDate": "2019-01",
       "endDate": "2020-12"
+    },
+    {
+      "institution": "University of Alaska Anchorage",
+      "location": "Anchorage, AK, USA",
+      "url": "https://www.uaa.alaska.edu/",
+      "area": "Mechanical Engineering",
+      "studyType": "BS",
+      "endDate": "2016-05"
     }
   ],
   "skills": [
     {
       "name": "Numerical Modeling",
       "icon": "fa-solid fa-water",
-      "keywords": ["ADCIRC+SWAN", "WaveWatch3", "Xbeach", "Computational Fluid Dynamics"]
+      "keywords": ["ADCIRC+SWAN", "WaveWatch3", "Xbeach", "Computational Fluid Dynamics", "Unstructured Grid Generation"]
     },
     {
       "name": "Coastal Processes",
@@ -68,19 +74,17 @@
     {
       "name": "Programming & Computing",
       "icon": "fa-solid fa-code",
-      "keywords": ["Python", "MATLAB", "Fortran", "High-Performance Computing", "Unstructured Grid Generation", "Data Analysis"]
+      "keywords": ["Python", "MATLAB", "Fortran", "High-Performance Computing"]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker",
-      "icon": ""
+      "fluency": "Native speaker"
     },
     {
       "language": "Swahili",
-      "fluency": "Conversational",
-      "icon": ""
+      "fluency": "Certified Advanced Speaking Proficiency"
     }
   ],
   "interests": [

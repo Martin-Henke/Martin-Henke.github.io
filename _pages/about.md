@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D., M.S., EIT
+subtitle: Ph.D., M.S. EIT @ PNNL
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -22,14 +22,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## About
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
-
-Dr. Henke is a coastal engineer with expertise in modeling ocean surface waves and hydrodynamics as they relate to coastal processes, flood hazards, and marine energy.
-
-His previous research at the GMU [Flood Hazards Research Lab](https://fhrl.vse.gmu.edu/) spans from studying wave-ice interaction along the Alaskan Arctic coast to analyzing marsh migration within the estuaries of the mid-Atlantic.
-
-Presently at the Pacific Northwest National Lab's [Ocean Dynamics and Modeling group](https://www.pnnl.gov/projects/ocean-dynamics-modeling), his work is concentrated on numerical modeling of tides and waves in high-latitude and Arctic environments to advance understanding of wave-current-ice interaction and assess marine energy potentials in Alaska.
+I'm a scientist and engineer within the [Ocean Dynamics and Modeling group](https://www.pnnl.gov/projects/ocean-dynamics-modeling) at [Pacific Northwest National Laboratory](www.pnnl.gov) currently assessing coastal dynamics and marine energy. Originally from and currently based out of Alaska, I specialize in the high-latitude and Arctic coastal processes. My research has been published in journals including _Proceedings of the National Academy of Sciences_, _Communications Earth & Environment_, and _Ocean Modelling_; typically taking the form of numerical modeling some combination of waves, tides, storm surge, or ice. This page exists as an archive of present and past publications and projects. I may even get arround to posting some thoughts in the blog section someday. I'm always open to collaboration and welcome questions, feel free to reach out.
