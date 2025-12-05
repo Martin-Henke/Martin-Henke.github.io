@@ -26,6 +26,6 @@ latest_posts:
 
 I'm a scientist and engineer within the [Ocean Dynamics and Modeling group](https://www.pnnl.gov/projects/ocean-dynamics-modeling) at [Pacific Northwest National Laboratory](https://www.pnnl.gov/) currently assessing coastal dynamics and marine energy.
 
-Originally from and currently based out of Alaska, I specialize in the high-latitude and Arctic coastal processes. My research has been published in journals including _Proceedings of the National Academy of Sciences_, _Communications Earth & Environment_, and _Ocean Modelling_; typically taking the form of numerical modeling some combination of waves, tides, storm surge, or ice.
+Originally from and currently based out of Alaska, I specialize in the high-latitude and Arctic coastal processes. My research has been published in journals including _Proceedings of the National Academy of Sciences_, _Communications Earth & Environment_, and _Ocean Modelling_; typically taking the form of numerical modeling some combination of waves, tides, storm surge, or ice. Here, you can view my full [publication list](/publications/) and specific [projects](/projects/) I'm presently or previously worked on.
 
 This page exists as an archive of present and past publications and projects. I may even get around to posting some thoughts in the blog section. I'm always open to collaboration and welcome questions, feel free to reach out.
