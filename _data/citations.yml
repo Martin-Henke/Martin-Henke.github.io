@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-03-30'
 papers:
   h0N9waMAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: 'Improving Coastal Water Level Estimation through Assimilation of Satellite Observations in Storm Surge Models: A Case Study of Hurricane Arthur'
     year: '2023'
   h0N9waMAAAAJ:HDshCWvjkbEC:
-    citations: 8
+    citations: 10
     title: 'Evolving Arctic maritime hazards: Declining sea ice and rising waves in the Northwest Passage'
     year: '2024'
   h0N9waMAAAAJ:IWHjjKOFINEC:
@@ -30,7 +30,7 @@ papers:
     title: Coastal Sea Ice and Coupled Ocean Processes II Poster
     year: '2026'
   h0N9waMAAAAJ:L8Ckcad2t8MC:
-    citations: 5
+    citations: 6
     title: Projecting future wave attenuation by vegetation from native and invasive saltmarsh species in the United States
     year: '2023'
   h0N9waMAAAAJ:M3NEmzRMIkIC:
@@ -40,7 +40,7 @@ papers:
   h0N9waMAAAAJ:RHpTSmoSYBkC:
     citations: 0
     title: Improving coastal water level estimation by merging nadir-only satellite altimetry data into a hydrodynamic model
-    year: '2025'
+    year: '2026'
   h0N9waMAAAAJ:TFP_iSt0sucC:
     citations: 0
     title: Coastal Hazard Patterns Linked to Extra-Tropical and High-Latitude Cyclones in the Alaskan Arctic
@@ -94,7 +94,7 @@ papers:
     title: 'Arctic PISCES: Observations in the Alaska Coastal Ice Zone for Improved Prediction of Ocean-Ice-Atmosphere Interactions'
     year: Unknown Year
   h0N9waMAAAAJ:mB3voiENLucC:
-    citations: 12
+    citations: 13
     title: Increasing coastal exposure to extreme wave events in the Alaskan Arctic as the open water season expands
     year: '2024'
   h0N9waMAAAAJ:maZDTaKrznsC:
