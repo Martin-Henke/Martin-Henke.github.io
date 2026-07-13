@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-13'
 papers:
   h0N9waMAAAAJ:-f6ydRqryjwC:
     citations: 0
     title: Identifying potential septic failures under sea-level rise and coastal extreme events in Maryland's Chesapeake Bay
     year: '2023'
   h0N9waMAAAAJ:4JMBOYKVnBMC:
-    citations: 8
+    citations: 9
     title: A data-driven Bayesian network methodology for predicting future incident risk in Arctic maritime-based cargo transit
     year: '2025'
   h0N9waMAAAAJ:7PzlFSSx8tAC:
@@ -14,11 +14,11 @@ papers:
     title: 'Improving Coastal Water Level Estimation through Assimilation of Satellite Observations in Storm Surge Models: A Case Study of Hurricane Arthur'
     year: '2023'
   h0N9waMAAAAJ:HDshCWvjkbEC:
-    citations: 15
+    citations: 16
     title: 'Evolving Arctic maritime hazards: Declining sea ice and rising waves in the Northwest Passage'
     year: '2024'
   h0N9waMAAAAJ:IWHjjKOFINEC:
-    citations: 9
+    citations: 10
     title: Assessment of Arctic sea ice and surface climate conditions in nine CMIP6 climate models
     year: '2023'
   h0N9waMAAAAJ:IjCSPb-OGe4C:
@@ -46,7 +46,7 @@ papers:
     title: Coastal Hazard Patterns Linked to Extra-Tropical and High-Latitude Cyclones in the Alaskan Arctic
     year: '2024'
   h0N9waMAAAAJ:TQgYirikUcIC:
-    citations: 9
+    citations: 10
     title: "Assessing the potential long-term effects of sea-level rise on salt marsh\u2019s coastal protective capacity under different climate pathway scenarios"
     year: '2024'
   h0N9waMAAAAJ:UeHWp8X0CEIC:
@@ -92,9 +92,9 @@ papers:
   h0N9waMAAAAJ:k_IJM867U9cC:
     citations: 0
     title: 'Arctic PISCES: Observations in the Alaska Coastal Ice Zone for Improved Prediction of Ocean-Ice-Atmosphere Interactions'
-    year: Unknown Year
+    year: '2025'
   h0N9waMAAAAJ:mB3voiENLucC:
-    citations: 17
+    citations: 18
     title: Increasing coastal exposure to extreme wave events in the Alaskan Arctic as the open water season expands
     year: '2024'
   h0N9waMAAAAJ:maZDTaKrznsC:
