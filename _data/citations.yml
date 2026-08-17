@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-17'
 papers:
   h0N9waMAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -14,11 +14,11 @@ papers:
     title: 'Improving Coastal Water Level Estimation through Assimilation of Satellite Observations in Storm Surge Models: A Case Study of Hurricane Arthur'
     year: '2023'
   h0N9waMAAAAJ:HDshCWvjkbEC:
-    citations: 16
+    citations: 19
     title: 'Evolving Arctic maritime hazards: Declining sea ice and rising waves in the Northwest Passage'
     year: '2024'
   h0N9waMAAAAJ:IWHjjKOFINEC:
-    citations: 9
+    citations: 10
     title: Assessment of Arctic sea ice and surface climate conditions in nine CMIP6 climate models
     year: '2023'
   h0N9waMAAAAJ:IjCSPb-OGe4C:
@@ -44,17 +44,17 @@ papers:
   h0N9waMAAAAJ:RHpTSmoSYBkC:
     citations: 0
     title: Improving coastal water level estimation by merging nadir-only satellite altimetry data into a hydrodynamic model
-    year: '2025'
+    year: '2026'
   h0N9waMAAAAJ:TFP_iSt0sucC:
     citations: 0
     title: Coastal Hazard Patterns Linked to Extra-Tropical and High-Latitude Cyclones in the Alaskan Arctic
     year: '2024'
   h0N9waMAAAAJ:TQgYirikUcIC:
-    citations: 10
+    citations: 9
     title: "Assessing the potential long-term effects of sea-level rise on salt marsh\u2019s coastal protective capacity under different climate pathway scenarios"
     year: '2024'
   h0N9waMAAAAJ:UeHWp8X0CEIC:
-    citations: 7
+    citations: 8
     title: Intercomparing atmospheric reanalysis products for hydrodynamic and wave modeling of extreme events during the open-water Arctic season
     year: '2022'
   h0N9waMAAAAJ:Y0pCki6q_DkC:
@@ -86,7 +86,7 @@ papers:
     title: 'A high-resolution wave hindcast for the Alaskan Arctic: performance and analysis of historical coastal trends.'
     year: '2026'
   h0N9waMAAAAJ:iH-uZ7U-co4C:
-    citations: 2
+    citations: 3
     title: "The critical role of sea ice products for accurate wind\u2010wave simulations in the Arctic"
     year: '2025'
   h0N9waMAAAAJ:isC4tDSrTZIC:
@@ -98,7 +98,7 @@ papers:
     title: 'Arctic PISCES: Observations in the Alaska Coastal Ice Zone for Improved Prediction of Ocean-Ice-Atmosphere Interactions'
     year: '2025'
   h0N9waMAAAAJ:mB3voiENLucC:
-    citations: 19
+    citations: 21
     title: Increasing coastal exposure to extreme wave events in the Alaskan Arctic as the open water season expands
     year: '2024'
   h0N9waMAAAAJ:maZDTaKrznsC:
