@@ -250,8 +250,8 @@ jekyll-archives:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Henke]
+  first_name: [Martin, M., Martin T., M. T.]
 
   style: apa
   locale: en
