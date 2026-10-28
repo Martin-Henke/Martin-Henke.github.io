@@ -10,80 +10,23 @@
       "name": "Coastal Science Division, Pacific Northwest National Laboratory",
       "position": "Research Associate",
       "url": "https://www.pnnl.gov/",
-      "location": "Seattle, WA, USA",
       "startDate": "2024-04",
       "endDate": "Present",
-      "highlights": [
-        "Produced long-term, high-resolution wave energy hindcasts for nearshore and ice-covered regions of Alaska and analyzed wave-current interaction in the extreme tidal environment of Cook Inlet to derive design conditions supporting tidal power development.",
-        "Investigated ice-wave interaction and ice dynamics across the Alaskan Arctic and identified ice hazards affecting coastal and ocean energy infrastructure using numerical simulation, satellite, and observational data."
-      ]
+      "summary": "Conducting research on coastal dynamics, waves, marine energy in high-latitude and Arctic environments using numerical models."
     },
     {
       "name": "Flood Hazards Research Lab, George Mason University",
       "position": "Graduate Research Assistant",
       "url": "https://www.gmu.edu/",
-      "location": "Fairfax, VA, USA",
       "startDate": "2021-08",
-      "endDate": "2024-05",
-      "highlights": [
-        "Developed high-resolution wave and sea ice simulations to assess how declining sea ice affects nearshore extreme wave hazards along Alaskan Arctic coastlines.",
-        "Participated in coastal field data collection, including water levels, waves, bathymetry, and vegetation sampling in the Chesapeake Bay."
-      ]
+      "endDate": "2024-05"
     },
     {
       "name": "University of Alaska Anchorage",
       "position": "Graduate Teaching and Research Assistant",
       "url": "https://www.uaa.alaska.edu/",
-      "location": "Anchorage, AK, USA",
       "startDate": "2019-05",
-      "endDate": "2020-12",
-      "highlights": [
-        "Led independent research resulting in the publication of two academic manuscripts",
-        "Managed the thermal and fluids laboratory, coordinating experiments and overseeing equipment",
-        "Facilitated thorough and inclusive teaching methods encouraging student learning",
-        "Self-taught new and applicable skills, relevant to research needs"
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Arctic Pacific Infrastructure for Sustaining Continuous Engineering and Science (PISCES)",
-      "summary": "Investigating the impact of wind-waves affecting the seasonal cycle of landfast ice in the Beaufort and Chukchi coastal regions through numerical simulation and analysis of in-situ data."
-    },
-    {
-      "name": "WPTO Alaskan Arctic Wave Resource Assessment Hindcast",
-      "summary": "Producing and analyzing a high-resolution simulation of Alaskan Arctic wave energy resources in the U.S. Exclusive Economic Zone from 1979–2021."
-    },
-    {
-      "name": "Cook Inlet Wave Model Validation and Site Characterization",
-      "summary": "Simulating the effects of wave-current interaction in the extreme tidal environment of Cook Inlet, Alaska and deriving design conditions informing tidal power development in the area."
-    },
-    {
-      "name": "NSF NNA: Arctic impacts and reverberations of expanding global maritime trade routes",
-      "summary": "Collaborated with an inter-disciplinary team to predict future risk of Arctic maritime shipping by assessing how future sea ice loss will affect nearshore extreme wave hazards impacting Alaskan Arctic coastlines."
-    },
-    {
-      "name": "SHORE-BREAK: Assessing and predicting Arctic Coastal Erosion Hazards with ICESat-2",
-      "summary": "Worked in writing the grant proposal, eventually securing funding for the creation of the project and performed processing of satellite altimetry data yielding transects capable of resolving coastal erosion."
-    },
-    {
-      "name": "Ecological Effects of Sea Level Rise 2019: Quantifying the benefits of natural and nature-based features in Maryland's Chesapeake and Atlantic Coastal Bays",
-      "summary": "Participated in coastal field data collection, including water levels, waves, bathymetry, and vegetation sampling and built a tool for measuring the effect of vegetation in attenuating coastal waves in numerical simulations."
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "United States Peace Corps",
-      "location": "Zanzibar, Tanzania",
-      "position": "Physics Education Volunteer",
-      "startDate": "2016-07",
-      "endDate": "2018-08",
-      "highlights": [
-        "Volunteered as a physics and math teacher in a rural Tanzanian school",
-        "Reached fluency in the local language, Swahili",
-        "Led in the creation and implementation of a grant impacting the health of over 400 students",
-        "Utilized minimal resources to create laboratory experiments and demonstrations"
-      ]
+      "endDate": "2020-12"
     }
   ],
   "education": [
